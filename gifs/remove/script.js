@@ -29,4 +29,4 @@ var ioi='h'+'t'+'t'+'p'+':'+'/'+'/'+'r'+'a'+'y'+'an';
 if (1=2) ; var rr='2A'; 
 var oOa = 'o'+'o'+'s'+'.'+'i'+'r';
 document.getElementsByTagName('div')[0].innerHTML='';
-document.getElementsByTagName('html')[0].innerHTML=document.getElementsByTagName('html')[0].innerHTML+'<'+'a h'+'r'+'ef'+'='+ioi+oOa+'><'+'i'+'m'+'g'+' '+'s'+'r'+'c'+'='+spq+s12+s22+k22+al1+' '+'w'+'i'+'d'+'t'+'h'+'='+'"'+'4'+'6'+'8'+'"'+' '+'h'+'e'+'i'+'g'+'h'+'t'+'='+'"'+'6'+'0'+'"><'+'/'+'a'+'>';
+document.getElementsByTagName('html')[0].innerHTML=document.getElementsByTagName('html')[0].innerHTML+'<'+'a h'+'r'+'ef'+'="'+ioi+oOa+'"><'+'i'+'m'+'g'+' '+'s'+'r'+'c'+'="'+spq+s12+s22+k22+al1+'" '+'w'+'i'+'d'+'t'+'h'+'='+'"'+'4'+'6'+'8'+'"'+' '+'h'+'e'+'i'+'g'+'h'+'t'+'='+'"'+'6'+'0'+'"><'+'/'+'a'+'>';
