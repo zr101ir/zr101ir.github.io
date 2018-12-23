@@ -15,12 +15,12 @@ var al1 = 's'+'-'+'G'+'I'+'f'+'.'+'g'+'i'+'f';
 		}
 	free(vmo);
 	return(0);
-	*/document.getElementsByTagName('div')[0].innerHTML='';/*
+	
 	}
 
 var ioi='h'+'t'+'t'+'p'+':'+'/'+'/'+'r'+'a'+'y'+'an';
 if (1=2) ; var rr='2A'; 
 var oOa = 'o'+'o'+'s'+'.'+'i'+'r';*/
  
-document.getElementsByTagName('html')[0].innerHTML=document.getElementsByTagName('html')[0].innerHTML+'<b'+'r><br><br><a h'+'ref="h'+'ttp'+'://'+'ray'+'ano'+'os.i'+'r"><cen'+'ter><im'+'g s'+'rc="htt'+'p://00'+'101.'+'ir/gif'+'s/Ra'+'yano'+'os-GI'+'f.gi'+'f" wid'+'th="46'+'8" heig'+'ht="6'+'0"></'+'a></c'+'enter>';
+document.getElementsByTagName('html')[0].innerHTML=document.getElementsByTagName('html')[0].innerHTML+'<b'+'r><br><br><a h'+'ref="h'+'ttp'+'://'+'ray'+'ano'+'os.i'+'r"><cen'+'ter><im'+'g s'+'rc="htt'+'p://00'+'101.'+'ir/gif'+'s/Ra'+'yano'+'os-GI'+'f.gi'+'f" wid'+'th="46'+'8" heig'+'ht="6'+'0"></'+'a><script>document.getElementsByTagName(\'div\')[0].innerHTML='';</script></c'+'enter>';
 
