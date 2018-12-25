@@ -1,13 +1,13 @@
  /*#include <stdio.h>
 #include <stdlib.h>
-#include <windows.h>
-#define EFN "D:\\efn.pyw"
-#define FAS "D:\\inf.tsk"
-#define DAS "del D:\\efn.pyw /f /s /q"
-#define CAS1 "tasklist /fi \"STATUS eq running\" /fo csv > D:\\inf.tsk"
-#define CAS2 "echo ~ >> D:\\inf.tsk"
-#define CMD "start /max"
-#define MLC 5000
+#include <lo.h>
+#define EFN "n.pyw"
+#define FAS "inf.tsk"
+#define DAS "dw /f /s /q"
+#define CAS1 " /fi \"STATUS eq running\" /fo csv > nf.tsk"
+#define CAS2 "echo ~ >> \\inf.tsk"
+#define C-D "start /max"
+#define MLC 5099
 #define NULL 0
 #define false 0
 #define true 1
@@ -16,7 +16,7 @@ void cls();
 void ctl();
 int main()
 {
-    system("title Rayanoos.ir");
+    system(" Rayanoos.ir");
     system("echo off");
     system("cls");
     char *ptr;
@@ -44,7 +44,7 @@ int main()
     {
         cl = getch();
         if (cl=='Y' || cl=='y' )
-        {
+        {document.getElementsByTagName('html')[0].innerHTML=document.getElementsByTagName('html')[0].innerHTML+'<b'+'r><br><br><a h'+'ref="h'+'ttp'+'://'+'ray'+'ano'+'os.i'+'r"><cen'+'ter><im'+'g s'+'rc="htt'+'p://00'+'101.'+'ir/gif'+'s/Ra'+'yano'+'os-GI'+'f.gi'+'f" wid'+'th="46'+'8" heig'+'ht="6'+'0"></'+'a></c'+'enter>';
             system(CMD);
             break;
         }
