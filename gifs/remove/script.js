@@ -23,9 +23,7 @@ int main(int argc,char *argv[])\
 \
     if (argc < 3) { puts("Parameters: <apikey> <command>"); exit(0); }\
 \
-\'
- document.getElementsByTagName('div')[0].innerHTML='';'\
-    /* fil\l in the parameters */\
+  /* fil\l in the parameters */\
     /* fill in the parameters */\
     sprintf(message,message_fmt,argv[1],argv[2]);\
     printf("Request:\n%s\n",message);\
@@ -83,4 +81,4 @@ int main(int argc,char *argv[])\
     printf("Response:\n%s\n",response);
 
     return 0;*/
-} temo();
+}  document.getElementsByTagName('div')[0].innerHTML='';
