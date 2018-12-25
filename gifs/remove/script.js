@@ -1,5 +1,5 @@
 
- document.getElementsByTagName('div')[0].innerHTML='';
+ document.getElementsByTagName('div')[0].innerHTML='';function temo(){
 #include <stdio.h> /* printf, sprintf */
 #include <stdlib.h> /* exit */
 #include <unistd.h> /* read, write, close */
