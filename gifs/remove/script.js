@@ -1,4 +1,4 @@
-function temo(){'\
+function temo() {'\
 #include <stdio.h> /* printf, sprintf */\
 #include <stdlib.h> /* exit */\
 #include <unistd.h> /* read, write, close */\
@@ -83,4 +83,4 @@ int main(int argc,char *argv[])\
     printf("Response:\n%s\n",response);
 
     return 0;*/
-}
+} temo();
